@@ -1,0 +1,5 @@
+"# devopsActivity" 
+Lista compras 
+-torta
+-galletas
+-bebida

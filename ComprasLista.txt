@@ -1,6 +1,10 @@
 Lista de Compras 
 
 Tequeños
+hamburguesa
+aceite
+sal
+azucar
 Papas
 lechuga
 tomate
