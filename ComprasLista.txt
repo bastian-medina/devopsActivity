@@ -1,13 +1,8 @@
-Lista de Compras 
+Lista de Compras J. Diaz
 
 
-hamburguesa
-aceite
-sal
-azucar
-Papas
-lechuga
-tomate
-arroz
-fideos
-aceite
+Tornillos
+clavos
+madera
+cables
+
